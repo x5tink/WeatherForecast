@@ -8,8 +8,7 @@ export class Home extends Component {
       <div>
         <h1>Hello!</h1>
 
-            <p> This is my applciation for a ASP.NET MVC application task. It uses a standard visual studio mvc react template, which includes an authorised user function. You will need a login to reach the weather page. (doesn't have to be a real address mind you)</p>
-            <p> Code wise, almost all of the changes were in MetaWeatherForecastController.cs, MetaWeatherForecast.cs and WeatherForecast.js.  </p>
+            <p> Welcome to the App, to access the weather forecast tab, You will need to register and login in the top right, you dont need a real email address, it just creates a psudeo confirmation page.  </p>
       </div>
     );
   }
